@@ -1,0 +1,14 @@
+.card  {
+   border: 2px solid black;
+   width: fit-content;
+   height: fit-content;
+   margin: auto;
+}
+h1{
+    margin: 20px;
+}
+.card-media2 {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
